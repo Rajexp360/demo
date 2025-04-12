@@ -22,3 +22,7 @@ git branch -M branchName( to rename branch)
 git checkout branchName (to switch branch)
 git checkout -b newBranchName (to create a new branch)
 git branch -d branchName(to delete the branch)
+
+
+to pull all the content from the main branch
+git pull origin nameOfABranch
