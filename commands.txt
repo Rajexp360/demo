@@ -22,3 +22,12 @@ git branch -M branchName( to rename branch)
 git checkout branchName (to switch branch)
 git checkout -b newBranchName (to create a new branch)
 git branch -d branchName(to delete the branch)
+
+
+merging code Method 1
+git diff branchName (to compare commits, branches, files and more)
+git merge branchName(to merge 2 branches)
+
+merging branch Method 2
+create a PR (pull request)
+pull request in github: it lets you to tell others about the changes you've pushed to a branch in a repositary on github
