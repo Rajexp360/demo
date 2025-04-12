@@ -6,3 +6,19 @@ git remote -v (to verify remote)
 git branch (to check branch)
 git branch -M main (to rename branch)
 git push origin main
+
+workflow:
+local git
+make a git repo
+clone it 
+changes
+add
+commit
+push
+
+git branches commands
+git branch (to check branch)
+git branch -M branchName( to rename branch)
+git checkout branchName (to switch branch)
+git checkout -b newBranchName (to create a new branch)
+git branch -d branchName(to delete the branch)
